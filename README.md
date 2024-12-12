@@ -1,2 +1,3 @@
 # mern-stack-app
-first git repository
+My first git repository.
+Author Shoaib akhtar
